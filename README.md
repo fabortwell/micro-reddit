@@ -7,7 +7,7 @@ Micro-Reddit is a lightweight API built with Ruby on Rails, enabling users to cr
 You can attach an image or diagram to illustrate the relationships among models (Users, Posts, Comments). Place the image in the `assets` folder and reference it in the README:
 
 Example:
-![API Results Diagram](assets/images/API.png)
+![API Results Diagram](app/assets/images/API.png)
 
 ---
 
